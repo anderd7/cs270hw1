@@ -1,2 +1,2 @@
-# cs270hw1
-CS 270 Assignment 1
+Name: David Anderson, CS 207, Assignment 1
+Description: A navigation menu with horizontal drop-down menu buttons.
